@@ -38,7 +38,7 @@ _기울임꼴_
  [깃허브](http://github.com)
 
  ## 이미지 표시
- ![구글로고](http://google.com/images/srpr/logo11w.png)
+ ![구글로고](http://www.google.com/images/srpr/logo11w.png)
 
  ## 가로선 넣기
  ---
